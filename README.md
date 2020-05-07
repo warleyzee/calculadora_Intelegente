@@ -1,7 +1,7 @@
-# Calculadora JavaScript
+# JavaScript Calculator
 
-Calculadora feita no intuido de aprender e praticar sobre a linguagem JavaScripit. 
-Ultilizando as novas tecnologias da linguagem
+Calculator made in order to learn and practice about the JavaScripit language.
+Using new language technologies
 
 
 ![Alt text](https://i.ibb.co/DVvH97f/calculadora.png "Calculadora")
